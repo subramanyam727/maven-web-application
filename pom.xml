@@ -99,8 +99,7 @@
 	      <id>nexus</id>
 	      <name>amazon-release</name>
 	      <url>http://13.126.154.196:8081/repository/amazon-release/</url>
-	    </repository>
-	    
+		</repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>amazon-snapshot</name>
