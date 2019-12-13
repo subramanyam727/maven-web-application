@@ -97,13 +97,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>amazon-release</name>
-	      <url>http://13.126.154.196:8081/repository/amazon-release/</url>
+	      <name>powerbank-release</name>
+	      <url>http://52.66.243.87:8081/repository/powerbank-release/</url>
 		</repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>amazon-snapshot</name>
-	      <url>http://13.126.154.196:8081/repository/amazon-snapshot/</url>
+	      <name>powerbank-snapshot</name>
+	      <url>http://52.66.243.87:8081/repository/powerbank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
