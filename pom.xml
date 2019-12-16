@@ -97,13 +97,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>apple-release</name>
-	      <url>http://13.234.67.129:8081/repository/maven-releases/</url>
+	      <name>paytm-release</name>
+	      <url>http://13.234.67.129:8081/repository/paytm_release//</url>
 		</repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>apple-snapshot</name>
-	      <url>http://13.234.67.129:8081/repository/maven-snapshots/</url>
+	      <name>paytm-snapshot</name>
+	      <url>http://13.234.67.129:8081/repository/paytm_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
