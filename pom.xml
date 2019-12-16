@@ -97,13 +97,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>paytm-release</name>
-	      <url>http://13.234.67.129:8081/repository/paytm_release//</url>
+	      <name>maven-release</name>
+	      <url>http://35.154.40.216:8081/repository/maven-releases/</url>
 		</repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>paytm-snapshot</name>
-	      <url>http://13.234.67.129:8081/repository/paytm_snapshot/</url>
+	      <name>maven-snapshot</name>
+	      <url>http://35.154.40.216:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
