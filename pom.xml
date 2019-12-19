@@ -98,13 +98,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>paytm-release</name>
-	      <url>http://52.66.247.17:8081/repository/paytm_release/</url>
+	      <name>bottele-release</name>
+	      <url>http://http://52.66.247.167:8081/repository/bottele-release//</url>
 		</repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>paytm-snapshot</name>
-	      <url>http://52.66.247.17:8081/repository/paytm_snapshot/</url>
+	      <name>bottele-snapshot</name>
+	      <url>http://http://52.66.247.167:8081/repository/bottele-snapshot//</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
