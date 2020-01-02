@@ -99,12 +99,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>flipkart-release</name>
-	      <url>http://13.126.101.127:8081/repository/flipkart_release/</url>
+	      <url>http://52.66.51.101:8081/repository/bottele-release/</url>
 		</repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>flipkart-snapshot</name>
-	      <url>http://13.126.101.127:8081/repository/flipkart_snapshot/</url>
+	      <url>http://52.66.51.101:8081/repository/bottele-snapshot/</url>
 		</snapshotRepository>
 	    
 	</distributionManagement>
